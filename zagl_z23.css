@@ -1,0 +1,41 @@
+p#pogrubienie_zagloba
+{
+color: #87C76A;
+font-size: 32pt;
+}
+
+p#pochylona_zagloba
+{
+color: #EBC71A;
+font-size: 26pt;
+}
+
+p#indexg_zagloba
+{
+color: #379024;
+font-size: 1.1cm;
+}
+
+p#indexd_zagloba
+{
+    color: rgb(21%,95%,88%);
+    font-size: 1.7cm;
+}
+
+p#mono_zagloba
+{
+    color: #1BF49C;
+    font-size: 47px;
+}
+
+p#pow_zagloba
+{
+    font-size: 47px;
+    color: #554830;
+}
+
+p#pom_zagloba
+{
+    font-size: 47px;
+    color: rgb(71%,65%,23%);
+}
